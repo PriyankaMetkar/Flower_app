@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("My First Application")
+st.title("My test application")
 st.write("I am testing streamlit")
 st.image("flower Image.gif")
 
